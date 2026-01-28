@@ -1,0 +1,7 @@
+{
+  "name": "OutstandingAI",
+  "description": "An AI-coding assistant dashboard that provides local file system management and LLM integration for full-stack project generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
